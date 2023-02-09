@@ -8,4 +8,8 @@ public class GitWorkshopTest
         //Commit: Command + K
         //Push: Command + Shift + K
     }
+    float multiply(int x, int y)
+    {
+        return x*y;
+    }
 }
