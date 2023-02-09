@@ -12,4 +12,10 @@ public class GitWorkshopTest
     {
         return x*y;
     }
+    /*
+    When you are creating new features, make a new branch and make changes, test it, etc on that.
+    Once it's perfect, Add it to the main branch (origin/main)
+    Origin/main = The version on Git
+    Local Branch = The version on my laptop
+    */
 }
