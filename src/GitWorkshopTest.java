@@ -7,6 +7,7 @@ public class GitWorkshopTest
         System.out.println("This is me writing more code!");
         //Commit: Command + K
         //Push: Command + Shift + K
+        //Pull: Command + T
     }
     float multiply(int x, int y)
     {
