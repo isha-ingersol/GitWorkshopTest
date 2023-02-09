@@ -5,5 +5,7 @@ public class GitWorkshopTest
         System.out.println("This is me writing more more code!");
         System.out.println("Hello World from the Visual Studio Code IDE!");
         System.out.println("This is me writing more code!");
+        //Commit: Command + K
+        //Push: Command + Shift + K
     }
 }
